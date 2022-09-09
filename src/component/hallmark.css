@@ -1,0 +1,84 @@
+.Picture2{
+    object-fit: fill;
+    width: 100%;
+    position:relative;
+}
+
+.sheffield-height{
+    height: auto;
+}
+
+.sheffield-address{
+    position: absolute;
+    top:80px;
+    font-size: 22px;
+    line-height: 15px;
+    padding-left: 60px;
+    font-weight: 500;
+}
+
+.sheffield-Notes {
+    position: absolute;
+    top:170px;
+    bottom: 0;
+    right:350px;
+    font-size: 20px;
+    line-height: 10px;
+    padding-left: 60px;
+    font-weight: 500;
+    /* border: 1px solid red; */
+}
+
+.For-assay{
+    height: 340px;
+    border: 2px solid black;
+    background-color: gainsboro;
+}
+.For-assay p {
+   
+    font-size: 18px;
+    padding: 0 2px;
+    font-weight: 600px;
+}
+
+.container-padding{
+    padding: 0 70px;
+}
+
+.thisnote{
+   width: 50ch;
+   margin: 0 5px;
+}
+
+.thisnote span{
+    font-size: 18px;
+    font-weight: 500; 
+}
+
+.thisnote p{
+    font-size: 14px;
+    font-weight: 400; 
+}
+
+.thisnote-table{
+    margin: 0 5px; 
+}
+
+.border-right{
+    border-right: 1px solid black;
+}
+
+
+th,td {
+    border:1px solid black;
+    width: 25%;
+  }
+  
+table{
+    border-collapse: collapse;
+    table-layout: fixed ;
+  }
+
+.table-button{
+    border: 1px solid red;
+}
